@@ -2,7 +2,7 @@ package model.dao.impl;
 
 import db.DB;
 import db.DbException;
-import model.application.Seller;
+import model.entities.Seller;
 import model.dao.SellerDao;
 import model.entities.Department;
 
